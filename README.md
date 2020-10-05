@@ -1,4 +1,4 @@
-# Credit Default via Deep Learning
+# Credit Default Prediction via Deep Time Series Features Extraction
 
 Traditionally, banks use **non-time dependency** models, such as linear models, to deal with credit scoring problems. However, the models would not be robust for more complicated real-world data and applications. Thus, we would like to leverage time-related deep learning models to provide better insights for this problem.
 
