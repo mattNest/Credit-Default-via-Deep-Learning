@@ -26,4 +26,4 @@ put more weight on the insufficient label.
 <br> The architecture of using LSTM to extract latent from dynamic features
 ![img](https://i.imgur.com/ep2Jdpr.png)
 
-For more detailed descrpition, please refer to the report in this repo.
+### For more detailed descrpition, please refer to the report in this repo.
